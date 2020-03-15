@@ -7,3 +7,6 @@ AllenNLP,NLTK,
 
 Chinese
 Jieba,HanLP,snowNLP,THULAC,FudanNLP,NLPIR
+
+HanLP：
+https://github.com/hankcs/HanLP
